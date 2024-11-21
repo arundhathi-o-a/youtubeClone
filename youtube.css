@@ -1,0 +1,190 @@
+.container{
+   width: 100%;
+   height: 100%;
+   /* background: red; */
+}
+
+
+
+
+.header{
+  
+   width: 100vw;
+
+    
+}
+body{
+   margin: 0;
+   
+   
+}
+.left-section{
+
+   width:30%;
+   height: 50px;
+   
+   display: flex;
+   float: left;
+
+   
+}
+.middle-section{
+   width: 60%;
+   height: 50px;
+   background: #fff;
+    float: left; 
+   
+  
+   
+}
+
+.header .right-section{
+   width: 10%;
+   background: #ffffff;
+   float:right;
+   height: 50px;
+   text-align: center;
+   display: flex;
+   justify-content: space-evenly;
+   
+   
+   
+   
+}
+.menu{
+   width: 20px;
+   height: 20px;
+   margin-top: 15px;
+   margin-left: 15px;
+
+}
+.yt-iogo-img{
+   width: 100px;
+   height: 20rem;
+   
+}
+.Search-bar{
+   width: 60%;
+   height: 30px;
+   margin-top: 10px;
+   border-radius: 20px;
+
+
+}
+.main-body{
+   width: 100%;
+   display: flex;
+   background: #fff;
+   height: 100rcap;
+  
+   
+   
+   
+}
+.main-body-left{
+   width: 10%;
+   
+   
+   
+
+}
+.main-body-right{
+   width: 100%;
+   height: 100%;
+
+}
+.main-body-right-sec-header{
+   width: 100%;
+   height: 70px;
+   /* background: rgb(168, 154, 154); */
+  
+   padding-left: 10px;
+   padding-top: 5px;
+   display: flex;
+   
+}
+.micro-img{
+   width: 30px;
+   
+   
+   
+}
+.main-body-right-sec-body{
+   /* background-color: aquamarine; */
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+}
+iframe{
+   padding-top: 20px;
+
+}
+
+.right-section {
+   display: flex;
+   justify-content: space-between; 
+   align-items: center;
+   gap: 15px; 
+}
+
+.video-icon,
+.notification-icon
+{
+   width: 25px; 
+   height: 25px; 
+   object-fit: contain; 
+}
+
+.profile-icon {
+   border-radius: 50%; 
+   padding-right: 10px;
+   width: 35px;
+   
+}
+
+
+.icon{
+   width: 20px;
+   display: inline;
+   margin-top: 20px;
+   margin-left: 10px;
+
+}
+
+.text-styl{
+   width: 106px;
+   /* color: rgb(14, 14, 14); */
+   float: inline-end;
+   margin-bottom: 0px;
+
+
+}
+
+ .trial{
+   /* display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-template-rows: 0.7fr 0.7fr 0.7fr; */
+   /* padding-left: 1rem;
+   padding-top: 1rem; */
+ }
+.m-b-r-s-b-0ne{
+   
+
+  /* flex-wrap: wrap; */
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+   
+}
+
+iframe{
+ height: 200px;
+ width: 350px;
+}
+
+.imgs{
+ 
+   
+}
